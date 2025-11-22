@@ -1,0 +1,1 @@
+To manage this code, I created a repository, opened issues to track tasks, worked on a separate branch to ensure version control safety, and merged via Pull Request."
